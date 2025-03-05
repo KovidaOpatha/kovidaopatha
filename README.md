@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kovidaopatha&show_icons=true&locale=en&layout=compact&theme=dark" alt="kovidaopatha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kovidaopatha&show_icons=true&locale=en$theme=dark" alt="kovidaopatha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kovidaopatha&show_icons=true&theme=dark&locale=en" alt="kovidaopatha" /></p>
